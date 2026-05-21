@@ -1,0 +1,25 @@
+{
+  "name": "preentrega_curso_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "keywords": [],
+  "author": "Yamila Coria",
+  "license": "MIT",
+  "type": "module",
+   "devDependencies": {
+    "chai": "^5.3.3",
+    "mocha": "^11.7.5"
+  },
+  "dependencies": {
+    
+     "express": "^5.2.1"
+  }
+}
